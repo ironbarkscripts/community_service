@@ -1,4 +1,4 @@
-# community_service
+# Ironbark Community Service - 1.0
 
 Community service system for FiveM by **[Ironbark Scripts](https://github.com/ironbarkscripts)**.
 
@@ -21,10 +21,10 @@ ox_target is preferred over qb-target. qbx_core is preferred over qb-core. Both 
 
 ## Installation
 
-1. Drop `kg_communityservice` into your resources folder.
+1. Drop `community_service` into your resources folder.
 2. Add to `server.cfg`, after your framework and `ox_lib`:
    ```
-   ensure kg_communityservice
+   ensure community_service
    ```
 3. Start your server. Database tables are created automatically on first run.
 
