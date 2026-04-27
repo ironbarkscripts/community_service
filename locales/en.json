@@ -1,0 +1,43 @@
+{
+    "title": "Community Service",
+
+    "no_sentence": "You have no active sentence",
+    "task_active": "Already performing a task",
+    "cooldown": "Wait %ds before your next task",
+    "wrong_task": "That is not your current assigned task",
+    "not_close_enough": "You are not close enough to the task location",
+    "task_failed": "Task failed: you left the task area",
+    "no_permission": "You do not have permission to use this command",
+    "tasks_range": "Tasks must be between %d and %d",
+    "player_not_found": "Player not found",
+    "no_target_sentence": "That player has no active sentence",
+    "sentence_cleared": "Your community service sentence has been cleared",
+    "no_active_sentence": "You have no active community service sentence",
+    "cannot_start": "Cannot start task right now",
+    "task_cancelled": "Task cancelled",
+    "prop_error": "Task error: prop model not found",
+
+    "tasks_added_officer": "Added %d task(s) to %s's sentence",
+    "sentenced_officer": "Sentenced %s to %d task(s)",
+    "cleared_officer": "Cleared sentence for %s",
+    "my_sentence": "You have %d task(s) remaining (%d/%d complete)",
+    "usage_sentence": "Usage: /sentence [playerid] [tasks] [reason]",
+    "usage_clearsentence": "Usage: /clearsentence [playerid]",
+
+    "tasks_remaining": "You have %d task(s) remaining",
+    "sentenced_player": "You have been sentenced to %d community service task(s)",
+    "task_complete": "Task complete! %d task(s) remaining",
+    "tasks_added_player": "Tasks added to your sentence. %d remaining",
+    "service_complete": "Community service complete! You are free.",
+    "confinement_warning": "You must remain within the community service area!",
+    "picking_up": "Picking up...",
+    "drop_trash": "Drop the trash here",
+
+    "cmd_sentence_desc": "Sentence a player to community service",
+    "cmd_sentence_arg_id": "Player server ID",
+    "cmd_sentence_arg_tasks": "Number of tasks (%d-%d)",
+    "cmd_sentence_arg_reason": "Reason for the sentence",
+    "cmd_clearsentence_desc": "Clear a player's community service sentence",
+    "cmd_clearsentence_arg_id": "Player server ID",
+    "cmd_mysentence_desc": "Check your community service sentence status"
+}
