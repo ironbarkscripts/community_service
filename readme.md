@@ -146,3 +146,4 @@ Two tables are created automatically on resource start.
 ---
 
 [github.com/ironbarkscripts/community_service](https://github.com/ironbarkscripts/community_service)
+[Discord](https://discord.gg/HkQYCYEcyv)
